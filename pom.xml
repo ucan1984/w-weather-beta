@@ -13,6 +13,7 @@
 
     <properties>
         <app.main>com.service.weather.WeatherApplication</app.main>
+        <cse.version>2.3.56</cse.version>
     </properties>
 
     <dependencyManagement>
